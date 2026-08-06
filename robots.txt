@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juliocaldeiraa.github.io/archive-9sffu1/sitemap.xml
